@@ -1,0 +1,9 @@
+[
+  { "name": "feat", "color": "0075ca", "description": "새 기능" },
+  { "name": "bug", "color": "d73a4a", "description": "버그" },
+  { "name": "fix", "color": "e4e669", "description": "버그 수정" },
+  { "name": "docs", "color": "0052cc", "description": "문서" },
+  { "name": "refactor", "color": "e99695", "description": "리팩토링" },
+  { "name": "chore", "color": "ffffff", "description": "기타 작업" },
+  { "name": "test", "color": "bfd4f2", "description": "테스트" }
+]
